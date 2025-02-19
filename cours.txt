@@ -1,8 +1,4 @@
-<<<<<<< HEAD
+
 Salut les amigos
 Salut 2.0 kc
 bob le BOBO
-=======
-Salut les amigos, 
-c'est vraiment pas cool les fichier textes
->>>>>>> nouvelle_branche
